@@ -44,6 +44,9 @@ window.onscroll = () =>{
     
 }
 
+function fun() {
+alert ("Subscribed");
+}
 
 
   var swiper = new Swiper(".review-slider", {
